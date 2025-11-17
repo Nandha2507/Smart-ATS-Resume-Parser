@@ -177,10 +177,4 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 If you need help with deployment, UI, API server, or converting this into a Streamlit / FastAPI app, feel free to ask!
